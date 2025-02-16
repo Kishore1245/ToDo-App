@@ -37,7 +37,7 @@ npm install
 npm run dev
 ```
 
-The app will be available at **http://localhost:3000/** (if using Vite).
+The app will be available at **http://localhost:5173/** (if using Vite).
 
 ## Repository Link
 [GitHub Repository](https://github.com/Kishore1245/ToDo-App)
